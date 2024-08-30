@@ -1,9 +1,7 @@
-# bitsy-archive
-an archive (with permission) of bitsy gamedata
+# Bitsybox Compatible Games Repository
 
-# bitsy boutique & inclusion in this archive
-1. i probably already have you listed in my [Bitsy Omnibus](https://docs.google.com/spreadsheets/d/1eBUgCYOnMJ9REHuZdTodc6Ft2Vs6JXbH4K-bIgL9TPc/edit?usp=sharing), do i have the listed author credit correct or would you prefer something else?
-2. could i have permission to include your games as part of the library when exhibiting my hardware bitsy player [Bitsy Boutique](https://candle.itch.io/bitsy-boutique)?
-3. could i have permission to include your games' gamedata as part of this public archive of bitsy games? 
+This is a collection of games that are currently compatible with the [Bitsybox](https://ledoux.itch.io/bitsybox) application by adam le doux, with files in the correct .bitsy format for it.
 
-tweet me @ragzouken
+Initial data borrowed from the bitsy archive repo available [here](https://github.com/Ragzouken/bitsy-archive)
+
+Files in Misc are either leftover files from the initial repo, or some utility files that can be ignored
